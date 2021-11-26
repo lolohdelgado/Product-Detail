@@ -1,0 +1,34 @@
+.screen-features {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 46px;
+    font-weight: 600;
+
+    .heart-beat-data {
+        // alinear
+        display: block;
+
+        p {
+            margin-top: 16px;
+        }
+
+        i {
+            margin-left: 14px;
+            color: red;
+        }
+    }
+
+    .hour-data {
+        display: block;    
+        margin-right: 6px;
+    }   
+}
+
+
