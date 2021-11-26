@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lolohdelgado/Product-Detail/tree/gh-pages/static/css/main.1adf4525.chunk.css",
-    "main.js": "/lolohdelgado/Product-Detail/tree/gh-pages/static/js/main.ef56f7b6.chunk.js",
-    "main.js.map": "/lolohdelgado/Product-Detail/tree/gh-pages/static/js/main.ef56f7b6.chunk.js.map",
-    "runtime-main.js": "/lolohdelgado/Product-Detail/tree/gh-pages/static/js/runtime-main.1839e428.js",
-    "runtime-main.js.map": "/lolohdelgado/Product-Detail/tree/gh-pages/static/js/runtime-main.1839e428.js.map",
-    "static/js/2.389ea9fd.chunk.js": "/lolohdelgado/Product-Detail/tree/gh-pages/static/js/2.389ea9fd.chunk.js",
-    "static/js/2.389ea9fd.chunk.js.map": "/lolohdelgado/Product-Detail/tree/gh-pages/static/js/2.389ea9fd.chunk.js.map",
-    "static/js/3.ffe31e91.chunk.js": "/lolohdelgado/Product-Detail/tree/gh-pages/static/js/3.ffe31e91.chunk.js",
-    "static/js/3.ffe31e91.chunk.js.map": "/lolohdelgado/Product-Detail/tree/gh-pages/static/js/3.ffe31e91.chunk.js.map",
-    "index.html": "/lolohdelgado/Product-Detail/tree/gh-pages/index.html",
-    "static/css/main.1adf4525.chunk.css.map": "/lolohdelgado/Product-Detail/tree/gh-pages/static/css/main.1adf4525.chunk.css.map",
-    "static/js/2.389ea9fd.chunk.js.LICENSE.txt": "/lolohdelgado/Product-Detail/tree/gh-pages/static/js/2.389ea9fd.chunk.js.LICENSE.txt",
-    "static/media/amazonLogo.2c372da7.png": "/lolohdelgado/Product-Detail/tree/gh-pages/static/media/amazonLogo.2c372da7.png"
+    "main.css": "//lolohdelgado/Product-Detail/tree/gh-pages/static/css/main.1adf4525.chunk.css",
+    "main.js": "//lolohdelgado/Product-Detail/tree/gh-pages/static/js/main.ef56f7b6.chunk.js",
+    "main.js.map": "//lolohdelgado/Product-Detail/tree/gh-pages/static/js/main.ef56f7b6.chunk.js.map",
+    "runtime-main.js": "//lolohdelgado/Product-Detail/tree/gh-pages/static/js/runtime-main.8fd9310b.js",
+    "runtime-main.js.map": "//lolohdelgado/Product-Detail/tree/gh-pages/static/js/runtime-main.8fd9310b.js.map",
+    "static/js/2.389ea9fd.chunk.js": "//lolohdelgado/Product-Detail/tree/gh-pages/static/js/2.389ea9fd.chunk.js",
+    "static/js/2.389ea9fd.chunk.js.map": "//lolohdelgado/Product-Detail/tree/gh-pages/static/js/2.389ea9fd.chunk.js.map",
+    "static/js/3.ffe31e91.chunk.js": "//lolohdelgado/Product-Detail/tree/gh-pages/static/js/3.ffe31e91.chunk.js",
+    "static/js/3.ffe31e91.chunk.js.map": "//lolohdelgado/Product-Detail/tree/gh-pages/static/js/3.ffe31e91.chunk.js.map",
+    "index.html": "//lolohdelgado/Product-Detail/tree/gh-pages/index.html",
+    "static/css/main.1adf4525.chunk.css.map": "//lolohdelgado/Product-Detail/tree/gh-pages/static/css/main.1adf4525.chunk.css.map",
+    "static/js/2.389ea9fd.chunk.js.LICENSE.txt": "//lolohdelgado/Product-Detail/tree/gh-pages/static/js/2.389ea9fd.chunk.js.LICENSE.txt",
+    "static/media/amazonLogo.2c372da7.png": "//lolohdelgado/Product-Detail/tree/gh-pages/static/media/amazonLogo.2c372da7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1839e428.js",
+    "static/js/runtime-main.8fd9310b.js",
     "static/js/2.389ea9fd.chunk.js",
     "static/css/main.1adf4525.chunk.css",
     "static/js/main.ef56f7b6.chunk.js"
